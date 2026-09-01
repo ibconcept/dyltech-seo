@@ -1,69 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.dyltechcomputers.co.ke/</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/services</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/services" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/laptops</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/laptops" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/gaming</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/gaming" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/desktops</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/desktops" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/accessories</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/accessories" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/graphics-cards</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/graphics-cards" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/monitors</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/monitors" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/networking</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/networking" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/storage</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/storage" />
   </url>
   <url>
     <loc>https://www.dyltechcomputers.co.ke/category/printers</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="canonical" href="https://www.dyltechcomputers.co.ke/category/printers" />
   </url>
 </urlset>

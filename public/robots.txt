@@ -1,6 +1,27 @@
+# Dyltech Computers SEO
 User-agent: *
 Allow: /
 Disallow: /admin
 Disallow: /login
+Disallow: /api/
+Disallow: /cart
+Disallow: /checkout
+
+# Allow search engines to crawl all main resources
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /dyltech_preview.png
+Allow: /dyltech-computers-*.png
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
 
 Sitemap: https://www.dyltechcomputers.co.ke/sitemap.xml
